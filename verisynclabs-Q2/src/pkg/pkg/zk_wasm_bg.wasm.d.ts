@@ -1,0 +1,31 @@
+/* tslint:disable */
+/* eslint-disable */
+export const memory: WebAssembly.Memory;
+export function __wbgt_pass_0(a: number): void;
+export function print_string(a: number, b: number): Array;
+export function get_pass_hash(a: number, b: number): Array;
+export function generate_proof(a: number, b: number, c: number): Array;
+export function verify_proof(a: number, b: number, c: number, d: number, e: number): number;
+export function __wbg_wasmbindgentestcontext_free(a: number, b: number): void;
+export function wasmbindgentestcontext_new(): number;
+export function wasmbindgentestcontext_args(a: number, b: number, c: number): void;
+export function wasmbindgentestcontext_run(a: number, b: number, c: number): number;
+export function __wbgtest_console_log(a: number): void;
+export function __wbgtest_console_debug(a: number): void;
+export function __wbgtest_console_info(a: number): void;
+export function __wbgtest_console_warn(a: number): void;
+export function __wbgtest_console_error(a: number): void;
+export function __wbgtest_cov_dump(): Array;
+export function __wbindgen_malloc(a: number, b: number): number;
+export function __wbindgen_realloc(a: number, b: number, c: number, d: number): number;
+export const __wbindgen_export_2: WebAssembly.Table;
+export const __wbindgen_export_3: WebAssembly.Table;
+export function closure464_externref_shim(a: number, b: number, c: number): void;
+export function __wbindgen_free(a: number, b: number, c: number): void;
+export function __externref_drop_slice(a: number, b: number): void;
+export function __externref_table_alloc(): number;
+export function wasm_bindgen__convert__closures__invoke0_mut__h438eef69e98ce7da(a: number, b: number): void;
+export function __wbindgen_exn_store(a: number): void;
+export function closure572_externref_shim(a: number, b: number, c: number, d: number, e: number): void;
+export function closure576_externref_shim(a: number, b: number, c: number, d: number): void;
+export function __wbindgen_start(): void;
